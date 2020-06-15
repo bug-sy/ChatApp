@@ -25,7 +25,7 @@
 	<div class="contact-form-checkbox">
 		<input class="input-checkbox" id="ckb1" type="checkbox" name="remember-me">
 			<label class="label-checkbox" for="ckb1">
-				Remember mee
+				Remember me
 			</label>
 	</div>
 	<div>
