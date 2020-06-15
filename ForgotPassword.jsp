@@ -18,7 +18,7 @@
 	     		<h1>Forgot Password ?</h1>
 	     </div>
 	     <div>
-	     		<p>Reset your password here</p>
+	     		<p>Reset your passord here</p>
 	     </div>
 	     <div>
 			<div class="input-group mb-3">
